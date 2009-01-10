@@ -1,0 +1,63 @@
+// !$*UTF8*$!
+{
+	056D85D40F13F9BF00A269E7 /* bitshift */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = bitshift;
+		sourceDirectories = (
+		);
+	};
+	056D85DC0F13F9C400A269E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	056D85DD0F13F9C400A269E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* bitshift */ = {
+		activeExec = 0;
+		executables = (
+			056D85D40F13F9BF00A269E7 /* bitshift */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 056D85D40F13F9BF00A269E7 /* bitshift */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* bitshift */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* bitshift */,
+		);
+		codeSenseManager = 056D85DD0F13F9C400A269E7 /* Code sense */;
+		executables = (
+			056D85D40F13F9BF00A269E7 /* bitshift */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 253302082;
+			PBXWorkspaceStateSaveDate = 253302082;
+		};
+		sourceControlManager = 056D85DC0F13F9C400A269E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
